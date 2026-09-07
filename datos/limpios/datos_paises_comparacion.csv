@@ -1,0 +1,4 @@
+pais,moneda,anio_cobertura,anio_fiscal,beneficiarios,poblacion_referencia,cuantia_anual,gasto_programa_anual,pib_nominal,poblacion_total,umbral_pobreza_anual,pobreza_65mas
+Espana,EUR,2025,2025,243449,10178625,7803.60,NA,1687152000000,49128297,12212,16.4
+Chile,CLP,2026,2025,2287912,3034428,2765658.78,5780010000000,339978000000000,20036669,2977027,13.5
+Bolivia,BOB,2026,2025,1239996,1306428,4168.20,5302000000,447180000000,11945263,14781,35.0
