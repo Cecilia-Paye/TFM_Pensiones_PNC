@@ -1,0 +1,25 @@
+"escenario","nombre","descuento","VAA_milM","IC95_inf","IC95_sup"
+"E0","Base",0.02,64.74,62.54,66.56
+"E0","Base",0.03,56.79,54.95,58.33
+"E0","Base",0.04,50.14,48.6,51.44
+"E1","Longevidad alta",0.02,66.32,62.54,66.56
+"E1","Longevidad alta",0.03,58.12,54.95,58.33
+"E1","Longevidad alta",0.04,51.27,48.6,51.44
+"E2","Longevidad baja",0.02,62.91,62.54,66.56
+"E2","Longevidad baja",0.03,55.26,54.95,58.33
+"E2","Longevidad baja",0.04,48.85,48.6,51.44
+"E3","Suficiencia",0.02,90.44,87.08,93.25
+"E3","Suficiencia",0.03,78.38,75.58,80.72
+"E3","Suficiencia",0.04,68.35,66,70.32
+"E4","Tendencial",0.02,62.85,60.74,64.59
+"E4","Tendencial",0.03,55.15,53.38,56.62
+"E4","Tendencial",0.04,48.71,47.22,49.95
+"R1","Reforma: cobertura de nivel chileno",0.02,2138.98,2050.53,2214.38
+"R1","Reforma: cobertura de nivel chileno",0.03,1875.56,1801.31,1938.86
+"R1","Reforma: cobertura de nivel chileno",0.04,1655.23,1592.92,1708.66
+"R2","Reforma: cobertura de nivel boliviano",0.02,2692.64,2581.3,2787.56
+"R2","Reforma: cobertura de nivel boliviano",0.03,2361.04,2267.57,2440.73
+"R2","Reforma: cobertura de nivel boliviano",0.04,2083.67,2005.23,2150.94
+"R3","Reforma: cobertura no contributiva chilena",0.02,576.17,552.34,596.48
+"R3","Reforma: cobertura no contributiva chilena",0.03,505.21,485.21,522.26
+"R3","Reforma: cobertura no contributiva chilena",0.04,445.86,429.08,460.25
